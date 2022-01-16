@@ -1,2 +1,2 @@
 # tarjetaanimada
-Tarjeta animada en JS
+Tarjeta animada en JS, HTML y CSS
